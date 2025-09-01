@@ -26,6 +26,7 @@ body {
   border: solid;
   border-color: gray;
   object-fit: cover;
+  margin-left: 7px;
 }
 
 .head h1 {
